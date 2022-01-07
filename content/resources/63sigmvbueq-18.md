@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-003sc-engineering-dynamics-fall-2011/97c37186b82c5ec7b6bf023d4cb2ae34_63sIgMvBuEQ.vtt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 97c37186-b82c-5ec7-b6bf-023d4cb2ae34
+---
