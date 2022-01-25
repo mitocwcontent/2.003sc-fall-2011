@@ -25,7 +25,7 @@ Videos
         *   [Predicting natural frequency by SQRT(g/delta)]({{< baseurl >}}/resources/predicting-natural-frequency-by-sqrt-g-delta)
         *   [Vibration isolation of the source-H-Ft/Fo transferfunction-with strobe light demo]({{< baseurl >}}/resources/vibration-isolation-of-the-source-h-ft-fo-transferfunction-with-strobe-light-demo)
 
-*   Watch 17008672lecture22:findingnaturalfrequencies&modeshapesofa2dofsystem52809863
+*   Watch [Lecture 22: Finding Natural Frequencies and Mode Shapes of a 2 DOF System]({{< baseurl >}}/resources/lecture-22-finding-natural-frequencies)
     *   Video Chapters
         *   [Obtain the equations of motion of a 2 DOF system]({{< baseurl >}}/resources/obtain-the-equations-of-motion-of-a-2-dof-system)
         *   [Finding the natural frequencies by the characteristic equation]({{< baseurl >}}/resources/finding-the-natural-frequencies-by-the-characteristic-equation)
